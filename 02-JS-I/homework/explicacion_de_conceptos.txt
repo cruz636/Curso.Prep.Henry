@@ -1,0 +1,19 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+
+
+Las variable son nombres de lugares donde guardamos datos.
+
+Los strings son un tipo o especie de estos datos que guardamos. La diferencia con otros tipos de datos, es que estos están entre comillas, y se entienden como textos.
+
+Las funciones son mini programas adentro de nuestro programa, que lo ayudan a resolver cosas evitando repetir código. Los argumentos son variables que le pasamos a las funciones, para que hagan su magia y nos devuelvan (con return) algo que queremos.
+
+Las declaraciones 'if' nos sirven para comprobar características de los datos.
+
+Los valores booleanos son dos : VERDADERO y FALSO. Son un tipo de dato que nos ayuda a dar el valor de verdad de una variable.
